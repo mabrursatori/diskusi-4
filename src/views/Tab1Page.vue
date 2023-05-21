@@ -12,7 +12,7 @@
         </ion-toolbar>
       </ion-header>
 
-      <ExploreContainer name="Tab 1 page" />
+      <ExploreContainer name="MABRUR (042201022)" />
     </ion-content>
   </ion-page>
 </template>
